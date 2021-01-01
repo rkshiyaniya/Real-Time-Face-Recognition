@@ -3,6 +3,7 @@ Face Recognition Using face_recognition and make real time using OpenCV
 
 ### Instruction :
 
+1. Make sure you have installed all the libraries/packages in requirement.txt
 1. First put all the images in 'img' folder with their name (for ex. rutvik.jpg)
 2. Run main.py
 
