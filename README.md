@@ -1,5 +1,5 @@
-# Face-Recognition
-Face Recognition Using face_recognition and make real time using OpenCV
+# Real Time Face-Recognition
+Face Recognition Using face_recognition and make it real time using OpenCV
 
 ### Instruction :
 
