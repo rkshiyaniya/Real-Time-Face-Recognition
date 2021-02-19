@@ -1,13 +1,13 @@
 # Real Time Face-Recognition
 Face Recognition Using face_recognition and make it real time using OpenCV
 
-### Instruction :
+## Instruction :
 
 1. Make sure you have installed all the libraries/packages in requirement.txt
 1. First put all the images in 'img' folder with their person's name (for ex. rutvik.jpg)
 2. Run main.py
 
-# About Project: 
+## About Project: 
 
 1. First of all, it will load all images placed in 'img' folder
 2. Find respective face locations & encondings and put in respective array according label name (classname)
